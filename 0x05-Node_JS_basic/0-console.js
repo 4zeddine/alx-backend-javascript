@@ -2,7 +2,7 @@
  * Prints in STDOUT the string argument.
  * @param {String} str The message to display.
  */
-const displayMessage = function(str){
+const displayMessage = (str) =>{
     console.log(str);
 }
 
