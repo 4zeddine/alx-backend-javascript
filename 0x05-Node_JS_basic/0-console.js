@@ -3,7 +3,7 @@
 * @param:
 *   - str: the message to print
 * */
-const displayMessage = function(str){
+const displayMessage = (str) =>{
     console.log(str);
 }
 module.exports = displayMessage;
