@@ -1,7 +1,7 @@
-/* *
-* Prints in STDOUT a string argument
-* @param:str the message to print
-*/
+/**
+ * Prints in STDOUT the string argument.
+ * @param {String} str The message to display.
+ */
 const displayMessage = function(str){
     console.log(str);
 }
